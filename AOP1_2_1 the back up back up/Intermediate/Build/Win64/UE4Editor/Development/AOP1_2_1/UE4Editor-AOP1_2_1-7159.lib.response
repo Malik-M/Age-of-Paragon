@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AOP1_2_1-7159.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\AOP1_2_1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\AOP1_2_1.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\GoldSystem.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\Player1.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\XpSystem.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\AOP1_2_1.init.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\GoldSystem.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\Player1.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\XpSystem.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\Default.rc2.res"
+/OUT:"C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\UE4Editor-AOP1_2_1-7159.lib"
+/INCLUDE:IMPLEMENT_MODULE_AOP1_2_1

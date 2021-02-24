@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AOP1_2_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4E8FF374-0B82-44CD-AD75-5B8479D0692F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AOP1_2_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AOP1_2_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8CAE1C1B-62D6-426D-8B39-9465D0C08575}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AOP1_2_1">
+      <UniqueIdentifier>{55290F87-2D98-45A5-A5E3-3498FDF1AA4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AOP1_2_1\AOP1_2_1.Build.cs">
+      <Filter>Source\AOP1_2_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AOP1_2_1\AOP1_2_1.cpp">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AOP1_2_1\AOP1_2_1.h">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AOP1_2_1\Player1.cpp">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AOP1_2_1\Player1.h">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AOP1_2_1\TheCorrectGoldSystem.cpp">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AOP1_2_1\TheCorrectGoldSystem.h">
+      <Filter>Source\AOP1_2_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

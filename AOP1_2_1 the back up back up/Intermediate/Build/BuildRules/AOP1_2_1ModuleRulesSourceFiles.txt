@@ -1,0 +1,3 @@
+C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Source\AOP1_2_1\AOP1_2_1.Build.cs
+C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Source\AOP1_2_1.Target.cs
+C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Source\AOP1_2_1Editor.Target.cs

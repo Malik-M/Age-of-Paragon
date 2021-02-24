@@ -1,0 +1,12 @@
+﻿  Parsing headers for AOP1_2_1Editor
+    Running UnrealHeaderTool "C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\AOP1_2_1.uproject" "C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\AOP1_2_1Editor\Development\AOP1_2_1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for AOP1_2_1Editor in 5.2113615 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 4 processes...
+    [1/3] UE4Editor-AOP1_2_1-0005.lib
+       Creating library C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\UE4Editor-AOP1_2_1-0005.lib and object C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\UE4Editor-AOP1_2_1-0005.exp
+    [2/3] UE4Editor-AOP1_2_1-0005.dll
+       Creating library C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\UE4Editor-AOP1_2_1-0005.suppressed.lib and object C:\Users\PC\Documents\Unreal Projects\AOP1_2_1\Intermediate\Build\Win64\UE4Editor\Development\AOP1_2_1\UE4Editor-AOP1_2_1-0005.suppressed.exp
+    [3/3] AOP1_2_1Editor.target
+  Total time in Parallel executor: 0.86 seconds
+  Total execution time: 6.80 seconds
