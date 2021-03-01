@@ -13,7 +13,7 @@ The game that I wanted to create a prototype of is a competivie 2-D type of game
  - Gain experince with the engine by only using Blueprints for this project.
 
 ## Milestones 
- - A Health and Experience system for the Bases and Characters.
+ - [A Health and Experience system for the Bases and Characters.] (Age-of-Paragon/Project Breakdown/Player Character.md)
  - UI that allows users to spawn Characters and access the show while tracking Base Health and Experience.
  - A spawing system.
  - Have the Characters walk forward and attack enemy not Friendly.
