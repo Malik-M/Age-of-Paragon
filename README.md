@@ -14,11 +14,11 @@ The game that I wanted to create a prototype of is a competitive 2-D type of gam
  - Gain experince with the engine by only using Blueprints for this project.
 
 ## Milestones 
- - [A Health and Experience system for the Bases and Characters.](Player_Character.md)
- - [UI that allows users to spawn Characters and access the show while tracking Base Health and Experience.](HUD.md)
- - [A spawing system.](Spawning_System.md)
- - [Have the Characters walk forward and attack enemy not Friendly.](Hero_AI.md)
- - [A shop that has upgrades and Orb Prime.](Shop_System.md)
+ - [A Health and Experience system for the Bases and Characters.](https://github.com/Malik-M/Age-of-Paragon/blob/main/Project%20Breakdown/Player%20Character.md)
+ - [UI that allows users to spawn Characters and access the show while tracking Base Health and Experience.](https://github.com/Malik-M/Age-of-Paragon/blob/main/Project%20Breakdown/HUD.md)
+ - [A spawing system.](https://github.com/Malik-M/Age-of-Paragon/blob/main/Project%20Breakdown/Spawning_System.md)
+ - [Have the Characters walk forward and attack enemy not Friendly.](https://github.com/Malik-M/Age-of-Paragon/blob/main/Project%20Breakdown/Hero_AI.md)
+ - [A shop that has upgrades and Orb Prime.](https://github.com/Malik-M/Age-of-Paragon/blob/main/Project%20Breakdown/Shop_System.md)
  - Abilities for certian Characters.
 
 # How to Run
