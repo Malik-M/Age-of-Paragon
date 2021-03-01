@@ -20,4 +20,4 @@ The game that I wanted to create a prototype of is a competivie 2-D type of game
  - A shop that has upgrades and Orb Prime.
  - Abilities for certian Characters.
 
-
+# How to Run
