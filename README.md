@@ -22,7 +22,7 @@ The game that I wanted to create a prototype of is a competitive 2-D type of gam
  - Abilities for certian Characters.
 
 # How to Run
-- Download the entire resposotory.
+- Download the entire repository.
 - Open the project with the Unreal Engine.
 - Open the play options and under the multiplayer options and set the number of the player to 2.
 - Press play
